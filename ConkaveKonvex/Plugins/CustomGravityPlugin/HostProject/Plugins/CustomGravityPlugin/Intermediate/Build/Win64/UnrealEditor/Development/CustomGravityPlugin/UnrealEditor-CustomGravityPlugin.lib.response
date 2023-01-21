@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CustomGravityPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Quent\Documents\GitHub\GameJamCodingBlock2023\ConkaveKonvex\Plugins\CustomGravityPlugin\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Quent\Documents\GitHub\GameJamCodingBlock2023\ConkaveKonvex\Plugins\CustomGravityPlugin\HostProject\Plugins\CustomGravityPlugin\Intermediate\Build\Win64\UnrealEditor\Development\CustomGravityPlugin\Module.CustomGravityPlugin.cpp.obj"
+"C:\Users\Quent\Documents\GitHub\GameJamCodingBlock2023\ConkaveKonvex\Plugins\CustomGravityPlugin\HostProject\Plugins\CustomGravityPlugin\Intermediate\Build\Win64\UnrealEditor\Development\CustomGravityPlugin\Default.rc2.res"
+/OUT:"C:\Users\Quent\Documents\GitHub\GameJamCodingBlock2023\ConkaveKonvex\Plugins\CustomGravityPlugin\HostProject\Plugins\CustomGravityPlugin\Intermediate\Build\Win64\UnrealEditor\Development\CustomGravityPlugin\UnrealEditor-CustomGravityPlugin.lib"
